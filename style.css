@@ -1,0 +1,36 @@
+  body{
+    background-image: url("C124_background_proyecto.jpg")
+  }
+  
+  
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px rgb(118, 242, 225);
+    background-color: black;
+    color: white;
+  }
+  .note
+  {
+    font-size: 15px;
+    color: black;
+  }
+  .copy_right_footer {
+    position: fixed;
+    color: white;
+    font-size: 20px;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(197, 135, 245);
+    line-height: 3;
+    text-align: center;
+ }
+  canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow:10px 10px 10px rgb(234, 166, 245);
+  }
+ 
